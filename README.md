@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Tom's github stats]https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&theme=prussian
+![Tom's github stats](https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&theme=prussian)
 
 - 🔭 I’m currently working on https://theblitzbot.com/
 - 🌱 I’m currently writing most of my stuff in Java.
