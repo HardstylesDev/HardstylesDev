@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up! I'm Tom, nice to meet you.
 
 ![Tom's github stats](https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&theme=prussian)
 
