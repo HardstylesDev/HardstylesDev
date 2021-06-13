@@ -4,7 +4,7 @@
 
 
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&theme=prussian" /> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&theme=prussian&include_all_commits=true" /> 
 
 - 🔭 I’m currently working on https://theblitzbot.com/
 - 🌱 I’m currently writing most of my stuff in Java.
