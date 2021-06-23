@@ -1,6 +1,6 @@
 ### What's up! I'm Tom, nice to meet you.
 
-[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)]()
+[![Tom's github stats](https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&theme=gradient&include_all_commits=true&count_private=true)]()
 
 
 <br>
