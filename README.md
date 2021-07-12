@@ -9,6 +9,5 @@
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&theme=synthwave&include_all_commits=true" /> 
-<img width="45%" alt="Commit streaks" src="https://github-readme-streak-stats.herokuapp.com?user=HardstylesDev&hide_border=true&background=00000000&stroke=4896ff&dates=71a1e0&ring=ffa74a&sideNums=4896ff&currStreakLabel=4896ff&currStreakNum=4896ff&sideLabels=4896ff" />
-<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HardstylesDev&theme=midnight-purple&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)
 
