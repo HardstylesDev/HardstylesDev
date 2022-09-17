@@ -2,7 +2,7 @@
 
 [![Tom's github stats](https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)]()
 <br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HardstylesDev&theme=tokyonight_duo&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)
+[[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HardstylesDev&theme=tokyonight_duo&hide_border=true&currStreakLabel=E4289E&background=2B213A&fire=E4289E&sideNums=E4289E&currStreakNum=E4289E)](https://git.io/streak-stats)](https://github-readme-streak-stats.herokuapp.com)
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&theme=algolia&include_all_commits=true&hide_border=true" /> 
 ### About me:
