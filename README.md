@@ -16,7 +16,6 @@
 <br>
 <img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> github.com/HardstylesDev
 
-<br />
 
 ### Languages and Tools:
 [<img align="left" alt="Intellij Ultimate" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png">][website]
