@@ -25,6 +25,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="SVELTE" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
+
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
@@ -41,10 +42,11 @@
 ### Projects:
 - [Blitz](https://theblitzbot.com) - All in one solution to checking Hypixel stats on Discord 📢
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHardstylesDev%2FHardstylesDev&label=Visitors&countColor=%235865f2)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHardstylesDev%2FHardstylesDev&label=Visitors&countColor=%23552AC9)
 ---
 
-<img align="left" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HardstylesDev&theme=github_dark&show_icons=true&hide_border=true" />
+<img align="left" width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HardstylesDev&theme=github_dark&show_icons=true&hide_border=true" />
+<img align="left" width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/HardstylesDev
 [gmail]: https://mail.google.com/mail/u/0/#inbox
