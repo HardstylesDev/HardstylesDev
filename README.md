@@ -41,7 +41,7 @@
 - [Blitz](https://theblitzbot.com) - All in one solution to checking Hypixel stats on Discord 📢
 
 ---
-<img align="left" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HardstylesDev&show_icons=true&hide_border=true" />
+<img align="left" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HardstylesDev&theme=tokyonight&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/HardstylesDev
 [gmail]: https://mail.google.com/mail/u/0/#inbox
