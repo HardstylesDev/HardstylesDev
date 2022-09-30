@@ -3,16 +3,16 @@
 ## I'm a student and developer
 - 🔭 I’m currently working on a few projects!
 - 🎓 I'm currently undergoing my university studies at [Saxion](https://saxion.nl)
-- 📚 I’m currently learning a bit of everything 🤣
+- 📚 I’m currently learning a bit of everything
 - 🎯 I'm always looking for the next side project
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I prefer backend development over frontend development
 
 ### Connect with me:
 
-<img align="left" alt="Discord" width="25px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" /> Tom B#0001<br>
+<img padding="left" alt="Discord" width="25px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" /> Tom B#0001<br>
 <br>
-<img align="left" alt="G-Mail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> getrekttom@gmail.com<br>
+<img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> getrekttom@gmail.com<br>
 <br>
 <img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> github.com/HardstylesDev
 
