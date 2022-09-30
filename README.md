@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img padding="left" alt="Discord" width="25px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" /> Tom B#0001<br>
+<img align="left" alt="Discord" width="25px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" /> Tom B#0001<br>
 <br>
 <img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> getrekttom@gmail.com<br>
 <br>
@@ -45,8 +45,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHardstylesDev%2FHardstylesDev&label=Visitors&countColor=%23552AC9)
 ---
 
-<img align="left" width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HardstylesDev&theme=github_dark&show_icons=true&hide_border=true" />
-<img align="left" width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
+<img width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=HardstylesDev&theme=github_dark&show_icons=true&hide_border=true" />
+<img width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
 
 [website]: https://github.com/HardstylesDev
 [gmail]: https://mail.google.com/mail/u/0/#inbox
