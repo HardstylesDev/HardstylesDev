@@ -25,7 +25,7 @@
 ---
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTerpDev%2FTerpDev&label=Visitors&countColor=%23552AC9)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTerpDev%2FTerpDev&label=Visitors&countColor=%2314D0E0)
 ---
 
 <img width="500px" alt="TerpDev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TerpDev&theme=github_dark&show_icons=true&hide_border=true" />
