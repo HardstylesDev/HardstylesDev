@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Discord" width="25px" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" /> Tom B#0001<br>
+<img align="left" alt="Discord" width="25px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> Tom B#0001<br>
 <br>
 <img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> getrekttom@gmail.com<br>
 <br>
@@ -50,3 +50,4 @@
 
 [website]: https://github.com/HardstylesDev
 [gmail]: https://mail.google.com/mail/u/0/#inbox
+
