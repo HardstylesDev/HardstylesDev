@@ -44,7 +44,6 @@
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHardstylesDev%2FHardstylesDev&label=Visitors&countColor=%23552AC9)
 ---
-[![Discord Presence](https://lanyard.cnrad.dev/api/276785668892393473?bg=000222&borderRadius=32px)](https://discord.com/users/276785668892393473)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HardstylesDev?cardType=level&theme=github-dark&Ring=4F00DD&Background=000224&Text=DDDDDD&Title=595BFF&Border=4F00DD)](https://git.io/awesome-stats-card)
 <img width="500px" alt="HardstylesDev's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardstylesDev&layout=compact&theme=github_dark&show_icons=true&hide_border=true" />
