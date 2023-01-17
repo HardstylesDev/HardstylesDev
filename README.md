@@ -5,7 +5,7 @@
 - 🎓 I'm currently undergoing my university studies at [Saxion](https://saxion.nl)
 - 📚 I’m currently learning a bit of everything
 - 🎯 I'm always looking for the next side project
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I prefer backend development over frontend development
 
 ### Connect with me:
