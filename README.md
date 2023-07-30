@@ -39,9 +39,6 @@
 ---
 
 
-### Projects:
-- [Blitz](https://theblitzbot.com) - All in one solution to checking Hypixel stats on Discord 📢
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FHardstylesDev%2FHardstylesDev&label=Visitors&countColor=%23552AC9)
 ---
 
