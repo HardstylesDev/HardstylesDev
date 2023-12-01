@@ -1,6 +1,6 @@
 ### Hello there, I'm Tom B - aka [HardstylesDev](https://github.com/hardstylesdev) ✌
 
-## I'm a student and software engineer
+## I'm a student and developer
 - 🔭 I’m currently working on a few projects!
 - 🎓 I'm currently undergoing my university studies at [Saxion](https://saxion.nl)
 - 📚 I’m currently learning a bit of everything
