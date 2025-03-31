@@ -11,8 +11,6 @@
 
 <img align="left" alt="Discord" width="25px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" /> arraylist<br>
 <br>
-<img align="left" alt="GMail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"/> getrekttom@gmail.com<br>
-<br>
 <img align="left" alt="Github" width="22px" src="https://assets.ifttt.com/images/channels/2107379463/icons/monochrome_large.png" /> github.com/HardstylesDev
 
 ### Languages and Tools:
