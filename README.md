@@ -2,7 +2,6 @@
 
 ## I'm a student and developer
 - 🔭 I’m currently working on a few projects!
-- 🎓 I'm currently undergoing my university studies at [Saxion](https://saxion.nl)
 - 📚 I’m currently learning a bit of everything
 - 🎯 I'm always looking for the next side project
 - ⚡ Fun fact: I prefer backend development over frontend development
